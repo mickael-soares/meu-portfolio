@@ -1,4 +1,4 @@
-# Portfólio Profissional — Mickael Dias Soares
+# Portfólio Profissional - Mickael Dias Soares
 
 <div align="center">
   <img src="assets/foto_perfil.jpg" alt="Mickael Dias Soares" width="140" style="border-radius: 50%; border: 3px solid #3b82f6;" />
