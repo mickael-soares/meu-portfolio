@@ -94,11 +94,11 @@ Aberto a **novas oportunidades e contratações**.
 
 ## Contato & Conexões
 
-- 💼 **LinkedIn:** [linkedin.com/in/mickael-s-97755098](https://www.linkedin.com/in/mickael-s-97755098/)
-- 🌐 **Portfólio Web:** [mickael-soares.github.io/meu-portfolio](https://mickael-soares.github.io/meu-portfolio/)
-- 💻 **GitHub:** [github.com/mickael-soares](https://github.com/mickael-soares)
-- ✉️ **E-mail:** [gumimds@gmail.com](mailto:gumimds@gmail.com)
-- 📍 **Localização:** Várzea Grande - MT • *Disponível para atuação Remota*
+- **LinkedIn:** [linkedin.com/in/mickael-s-97755098](https://www.linkedin.com/in/mickael-s-97755098/)
+- **Portfólio Web:** [mickael-soares.github.io/meu-portfolio](https://mickael-soares.github.io/meu-portfolio/)
+- **GitHub:** [github.com/mickael-soares](https://github.com/mickael-soares)
+- **E-mail:** [gumimds@gmail.com](mailto:gumimds@gmail.com)
+- **Localização:** Várzea Grande - MT • *Disponível para atuação Remota*
 
 ---
 
