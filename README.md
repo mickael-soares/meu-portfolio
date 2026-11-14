@@ -26,7 +26,7 @@ Com **mais de 10 anos de experiência sólida em infraestrutura corporativa, red
 
 Especialista na concepção, arquitetura e entrega de aplicações web resilientes e escaláveis, unindo **regras de negócio complexas, otimização extrema de performance, segurança da informação e conformidade regulatória (Portaria 671 MTE e LGPD)**.
 
-Aberto a **novas oportunidades e contratações** (CLT, PJ ou projetos corporativos).
+Aberto a **novas oportunidades e contratações**.
 
 ---
 
@@ -45,7 +45,7 @@ Aberto a **novas oportunidades e contratações** (CLT, PJ ou projetos corporati
 
 ## Projetos & Estudos de Caso em Destaque
 
-### 1. PontoSmart — SaaS de Ponto Eletrônico & Biometria Facial
+### 1. PontoSmart - SaaS de Ponto Eletrônico & Biometria Facial
 > *Status: Em Produção • Ambiente Corporativo Privado*
 
 * **Arquitetura & IA:** PWA *Offline-First* com IA de visão computacional diretamente no client-side (`face-api.js`/TensorFlow), cerca geográfica GPS e sincronização em segundo plano via `IndexedDB`.
@@ -55,7 +55,7 @@ Aberto a **novas oportunidades e contratações** (CLT, PJ ou projetos corporati
 
 ---
 
-### 2. Sistema de Agendamento Online — SaaS Multi-Tenant
+### 2. Sistema de Agendamento Online - SaaS Multi-Tenant
 > *Status: Em Produção • Ambiente Corporativo Privado*
 
 * Plataforma completa de agendamento online 24/7 para clínicas, consultórios, estética e serviços.
@@ -64,7 +64,7 @@ Aberto a **novas oportunidades e contratações** (CLT, PJ ou projetos corporati
 
 ---
 
-### 3. Portal do Cliente & Service Desk — Gestão de Chamados
+### 3. Portal do Cliente & Service Desk - Gestão de Chamados
 > *Status: Em Produção • Ambiente Corporativo Privado*
 
 * Sistema corporativo de helpdesk e chamados para atendimento B2B com controle estrito de **SLAs**.
@@ -73,7 +73,7 @@ Aberto a **novas oportunidades e contratações** (CLT, PJ ou projetos corporati
 
 ---
 
-### 4. Microsserviço Financeiro — Arquitetura de Alta Performance
+### 4. Microsserviço Financeiro - Arquitetura de Alta Performance
 > *Status: Código Aberto • Repositório Público*
 
 * Processamento assíncrono de transações financeiras com foco em resiliência e concorrência.
@@ -83,7 +83,7 @@ Aberto a **novas oportunidades e contratações** (CLT, PJ ou projetos corporati
 
 ---
 
-### 5. TISUPORTEMSMS — Presença Web & Landing Page Corporativa
+### 5. TISUPORTEMSMS - Presença Web & Landing Page Corporativa
 > *Status: Em Produção • Live*
 
 * **Performance Extrema:** Pontuação **100/100 no Google Lighthouse (Core Web Vitals)** com carregamento inferior a 1 segundo.
