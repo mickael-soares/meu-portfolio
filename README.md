@@ -1,4 +1,4 @@
-# 🚀 Portfólio Profissional — Mickael Dias Soares
+# Portfólio Profissional - Mickael Dias Soares
 
 <div align="center">
   <img src="assets/foto_perfil.jpg" alt="Mickael Dias Soares" width="140" style="border-radius: 50%; border: 3px solid #3b82f6;" />
@@ -13,7 +13,7 @@
 
 ---
 
-## 👨‍💻 Sobre Mim
+## Sobre Mim
 
 Com **mais de 10 anos de experiência sólida em infraestrutura corporativa, redes e governança de tecnologia**, atuo no desenvolvimento de software de ponta a ponta (*fullstack*).
 
@@ -21,7 +21,7 @@ Especialista na concepção, arquitetura e entrega de aplicações web resilient
 
 ---
 
-## 🛠️ Stack Tecnológica & Domínio Técnico
+## Stack Tecnológica & Domínio Técnico
 
 | Camada | Tecnologias & Habilidades |
 | :--- | :--- |
@@ -34,9 +34,9 @@ Especialista na concepção, arquitetura e entrega de aplicações web resilient
 
 ---
 
-## 🏆 Estudos de Caso & Projetos em Destaque
+## Estudos de Caso & Projetos em Destaque
 
-### 1. 🕒 [PontoSmart] — SaaS de Ponto Eletrônico & Biometria Facial
+### 1. [PontoSmart] - SaaS de Ponto Eletrônico & Biometria Facial
 > **Plataforma REP-P completa de controle de ponto eletrônico com inteligência artificial facial no navegador.**
 
 * **Arquitetura & IA:** PWA *Offline-First* com IA de visão computacional diretamente no client-side (`face-api.js`/TensorFlow), cerca geográfica GPS e sincronização em segundo plano via `IndexedDB`.
@@ -45,7 +45,7 @@ Especialista na concepção, arquitetura e entrega de aplicações web resilient
 
 ---
 
-### 2. 🎫 [Service Desk] — Portal de Chamados & Helpdesk Corporativo
+### 2. [Service Desk] - Portal de Chamados & Helpdesk Corporativo
 > **Sistema multiusuário para controle operacional de suporte e helpdesk com SLA.**
 
 * Painel administrativo e visão do cliente final.
@@ -55,7 +55,7 @@ Especialista na concepção, arquitetura e entrega de aplicações web resilient
 
 ---
 
-### 3. 🌐 [TI Suporte MS] — Web Corporativa & Landing Pages de Alta Conversão
+### 3. [TISUPORTEMS] - Web Corporativa & Landing Pages de Alta Conversão
 > **Presença corporativa oficial com foco em autoridade e captação de clientes B2B.**
 
 * **Performance Extrema:** Pontuação **100/100 no Google Lighthouse (Core Web Vitals)** e carregamento em menos de 1 segundo.
@@ -63,11 +63,11 @@ Especialista na concepção, arquitetura e entrega de aplicações web resilient
 
 ---
 
-## 📬 Contato & Conexões
+## Contato & Conexões
 
-- 💼 **LinkedIn:** [linkedin.com/in/mickael-s-97755098](https://www.linkedin.com/in/mickael-s-97755098/)
-- ✉️ **E-mail:** [gumimds@gmail.com](mailto:gumimds@gmail.com)
-- 📍 **Localização:** Cuiabá / Várzea Grande, MT — Disponível para atuação remota ou presencial
+- **LinkedIn:** [linkedin.com/in/mickael-s-97755098](https://www.linkedin.com/in/mickael-s-97755098/)
+- **E-mail:** [gumimds@gmail.com](mailto:gumimds@gmail.com)
+- **Localização:**Várzea Grande, MT — Disponível para atuação remota ou presencial
 
 ---
 <div align="center">
