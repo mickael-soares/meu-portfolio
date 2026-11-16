@@ -140,6 +140,8 @@ const projectGalleries = {
   agendamento_saas: {
     title: 'Agendamento Online — Multi-Segmento SaaS',
     category: 'SaaS • Multi-Segmento',
+    liveUrl: 'https://agendamento.tisuportems.com.br',
+    liveLabel: 'Acessar Sistema Online',
     slides: [
       {
         src: 'assets/project_agendamento.png',
@@ -154,6 +156,8 @@ const projectGalleries = {
   cobranca_saas: {
     title: 'Sistema de Cobrança',
     category: 'Fintech • Cobrança & Mensageria',
+    liveUrl: 'https://cobranca.tisuportems.com.br',
+    liveLabel: 'Acessar Sistema Online',
     slides: [
       {
         src: 'assets/project_cobranca.png',
@@ -169,6 +173,8 @@ const projectGalleries = {
   pontosmart: {
     title: 'PontoSmart - Ponto Eletrônico & IA Facial',
     category: 'SaaS • Biometria Facial & PWA',
+    liveUrl: 'https://homologacao.tisuportems.com.br',
+    liveLabel: 'Testar em Homologação',
     slides: [
       {
         src: 'assets/project_pontosmart.png',
@@ -183,6 +189,8 @@ const projectGalleries = {
   portal_chamados: {
     title: 'Portal de Chamados & Service Desk',
     category: 'Helpdesk • Service Desk',
+    liveUrl: 'https://portal.tisuportems.com.br',
+    liveLabel: 'Acessar Portal de Chamados',
     slides: [
       {
         src: 'assets/project_portal_chamados.png',
@@ -212,10 +220,32 @@ const projectGalleries = {
   tisuportems: {
     title: 'Site & Landing Page — TI Suporte MS',
     category: 'Web • Alta Conversão',
+    liveUrl: 'https://tisuportems.com.br',
+    liveLabel: 'Acessar Site Oficial',
     slides: [
       {
         src: 'assets/project_tisuportems.png',
         caption: 'Landing Page Corporativa B2B de Alta Conversão com Pontuação Máxima no Google Lighthouse'
+      }
+    ]
+  },
+  condo_access: {
+    title: 'Condo Access — Portaria & Hóspedes Temporada (Open-Source)',
+    category: 'Open-Source • Em Construção',
+    liveUrl: 'https://github.com/mickael-soares/condo-access-management',
+    liveLabel: 'Ver Repositório no GitHub',
+    slides: [
+      {
+        src: 'assets/project_condo_access.png',
+        caption: 'Painel Principal de Gestão & Cadastro — Visão Geral de Hóspedes Temporada, Unidades por Bloco, Moradores e Veículos'
+      },
+      {
+        src: 'assets/project_condo_proprietario.png',
+        caption: 'Portal Autônomo do Proprietário — Autoatendimento com Validação Dupla (CPF + Telefone/APT) para Autorizar Hóspedes Airbnb e Veículos'
+      },
+      {
+        src: 'assets/project_condo_login.png',
+        caption: 'Tela de Autenticação — Acesso de Portaria e Síndico com Atalho Direto ao Portal Autônomo do Proprietário'
       }
     ]
   }
@@ -231,6 +261,8 @@ function initProjectGalleryModal() {
   const indicatorsContainer = document.getElementById('galleryIndicators');
   const captionEl = document.getElementById('gallerySlideCaption');
   const counterEl = document.getElementById('gallerySlideCounter');
+  const liveLinkEl = document.getElementById('galleryLiveLink');
+  const liveLabelEl = document.getElementById('galleryLiveLabel');
   const prevBtn = document.getElementById('galleryPrevBtn');
   const nextBtn = document.getElementById('galleryNextBtn');
   const carouselEl = document.getElementById('galleryCarousel');
@@ -254,6 +286,16 @@ function initProjectGalleryModal() {
       currentProjectSlides = project.slides;
       modalTitle.textContent = project.title;
       modalCategory.textContent = project.category;
+
+      if (liveLinkEl && liveLabelEl) {
+        if (project.liveUrl) {
+          liveLinkEl.href = project.liveUrl;
+          liveLabelEl.textContent = project.liveLabel || 'Acessar Sistema';
+          liveLinkEl.style.display = 'inline-flex';
+        } else {
+          liveLinkEl.style.display = 'none';
+        }
+      }
 
       slidesContainer.innerHTML = '';
       indicatorsContainer.innerHTML = '';

@@ -46,34 +46,57 @@ Aberto a **novas oportunidades e contratações**.
 ## Projetos & Estudos de Caso em Destaque
 
 ### 1. PontoSmart - SaaS de Ponto Eletrônico & Biometria Facial
-> *Status: Em Produção • Ambiente Corporativo Privado*
+> *Status: Em Produção & Homologação • Ambiente Corporativo*
 
 * **Arquitetura & IA:** PWA *Offline-First* com IA de visão computacional diretamente no client-side (`face-api.js`/TensorFlow), cerca geográfica GPS e sincronização em segundo plano via `IndexedDB`.
 * **Conformidade Legal:** Homologado conforme exigências da **Portaria 671 do MTP e LGPD**, com geração de arquivos fiscais regulatórios (**AFD, AEJ**) e espelho de ponto.
 * **Engenharia de Alta Performance:** Arquitetura *Zero-Polling* no banco de dados com cache em memória RAM (**respostas em 0 ms**) e Cold-Start Interceptor no **Cloudflare Worker**.
 * **Stack:** React, TypeScript, Tailwind CSS, Node.js, PostgreSQL.
+* 🔗 [Acessar Ambiente de Homologação](https://homologacao.tisuportems.com.br)
 
 ---
 
 ### 2. Sistema de Agendamento Online - SaaS Multi-Tenant
-> *Status: Em Produção • Ambiente Corporativo Privado*
+> *Status: Em Produção • Ambiente Corporativo*
 
 * Plataforma completa de agendamento online 24/7 para clínicas, consultórios, estética e serviços.
 * Gestão dinâmica de salas, cabines, equipes, regras de antecedência e link público exclusivo por cliente.
 * **Stack:** Next.js 16, React 19, TypeScript, Prisma ORM, PostgreSQL, Tailwind CSS.
+* 🔗 [Acessar Sistema Online](https://agendamento.tisuportems.com.br)
 
 ---
 
-### 3. Portal do Cliente & Service Desk - Gestão de Chamados
-> *Status: Em Produção • Ambiente Corporativo Privado*
+### 3. Sistema de Cobrança & Gestão Recorrente - Fintech SaaS
+> *Status: Em Produção • Ambiente Corporativo*
+
+* Arquitetura corporativa em NestJS e Next.js para faturamento, gestão de inadimplência e conciliação bancária.
+* Réguas automatizadas de cobrança via WhatsApp (E.164) e E-mail, emissão de PIX Dinâmico com QR Code e precisão contábil em centavos.
+* **Stack:** NestJS, Next.js, TypeScript, PostgreSQL, Supabase, Prisma ORM.
+* 🔗 [Acessar Sistema Online](https://cobranca.tisuportems.com.br)
+
+---
+
+### 4. Portal do Cliente & Service Desk - Gestão de Chamados
+> *Status: Em Produção • Ambiente Corporativo*
 
 * Sistema corporativo de helpdesk e chamados para atendimento B2B com controle estrito de **SLAs**.
 * Painel administrativo, visão do cliente, upload de evidências e autenticação granular por perfis (**RBAC**).
 * **Stack:** Node.js, Express, PostgreSQL, Bootstrap 5.
+* 🔗 [Acessar Portal de Chamados](https://portal.tisuportems.com.br)
 
 ---
 
-### 4. Microsserviço Financeiro - Arquitetura de Alta Performance
+### 5. Condo Access Management - Controle de Portaria & Temporada (Airbnb)
+> *Status: Open-Source (MIT) • Em Construção*
+
+* Sistema corporativo de código aberto para controle de acesso de moradores fixos e locações por temporada (*short-stay* / Airbnb / Booking) com *self check-in*.
+* Armazenamento seguro de documentos sensíveis no **Cloudflare R2** via URLs pré-assinadas temporárias (15 min) em estrita conformidade com a **LGPD** e isolamento **Row-Level Security (RLS)** no Supabase.
+* **Stack:** Next.js 15, React 19, TypeScript, Supabase (PostgreSQL RLS), Cloudflare R2, Tailwind CSS v4.
+* 🔗 [Ver Repositório no GitHub](https://github.com/mickael-soares/condo-access-management)
+
+---
+
+### 6. Microsserviço Financeiro - Arquitetura de Alta Performance
 > *Status: Código Aberto • Repositório Público*
 
 * Processamento assíncrono de transações financeiras com foco em resiliência e concorrência.
@@ -83,12 +106,12 @@ Aberto a **novas oportunidades e contratações**.
 
 ---
 
-### 5. TISUPORTEMSMS - Presença Web & Landing Page Corporativa
+### 7. TISUPORTEMS - Presença Web & Landing Page Corporativa
 > *Status: Em Produção • Live*
 
 * **Performance Extrema:** Pontuação **100/100 no Google Lighthouse (Core Web Vitals)** com carregamento inferior a 1 segundo.
 * **SEO Semântico:** Estruturação avançada para mecanismos de busca e conversão direta via WhatsApp API.
-* 🔗 [Acessar Site Oficial](https://www.tisuportems.com.br/)
+* 🔗 [Acessar Site Oficial](https://tisuportems.com.br/)
 
 ---
 
