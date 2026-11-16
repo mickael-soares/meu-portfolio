@@ -138,14 +138,14 @@ function initSmoothScroll() {
    ========================================================================== */
 const projectGalleries = {
   agendamento_saas: {
-    title: 'Agendamento Online — Multi-Segmento SaaS',
+    title: 'Agendamento Online - Multi-Segmento SaaS',
     category: 'SaaS • Multi-Segmento',
     liveUrl: 'https://agendamento.tisuportems.com.br',
     liveLabel: 'Acessar Sistema Online',
     slides: [
       {
         src: 'assets/project_agendamento.png',
-        caption: 'Painel da Empresa — Visão Geral de Atendimentos, Profissionais, Salas e Clientes'
+        caption: 'Painel da Empresa - Visão Geral de Atendimentos, Profissionais, Salas e Clientes'
       },
       {
         src: 'assets/project_agendamento_login.png',
@@ -165,7 +165,7 @@ const projectGalleries = {
       },
       {
         src: 'assets/project_cobranca_login.png',
-        caption: 'Portal TISUPORTEMS PAY — Acesso Seguro com Autenticação e Perfis'
+        caption: 'Portal TISUPORTEMS PAY - Acesso Seguro com Autenticação e Perfis'
       }
     ]
   },
@@ -194,31 +194,31 @@ const projectGalleries = {
     slides: [
       {
         src: 'assets/project_portal_chamados.png',
-        caption: 'Central de Atendimento & Helpdesk — Gestão de Tickets em Tempo Real e Controle de SLA'
+        caption: 'Central de Atendimento & Helpdesk - Gestão de Tickets em Tempo Real e Controle de SLA'
       }
       /* Espaço reservado: adicione novos objetos { src: 'assets/...', caption: '...' } aqui quando desejar subir novas fotos reais */
     ]
   },
   health_monitor: {
-    title: 'Central de Operações & Health Check — TI Suporte MS',
+    title: 'Central de Operações & Health Check - TI Suporte MS',
     category: 'DevOps • Observabilidade',
     slides: [
       {
         src: 'assets/project_health_monitor.png',
-        caption: 'Serviços Web & APIs — Monitoramento Ativo de Rotas HTTP, Uptime e Latências em Tempo Real'
+        caption: 'Serviços Web & APIs - Monitoramento Ativo de Rotas HTTP, Uptime e Latências em Tempo Real'
       },
       {
         src: 'assets/project_health_storage.png',
-        caption: 'Bancos de Dados & Storage — Volumetria e Cotas em Tempo Real de PostgreSQL (Supabase) e Cloudflare R2'
+        caption: 'Bancos de Dados & Storage - Volumetria e Cotas em Tempo Real de PostgreSQL (Supabase) e Cloudflare R2'
       },
       {
         src: 'assets/project_health_ssl.png',
-        caption: 'Segurança & Compliance — Inspeção Diária de Certificados SSL/TLS e do Certificado A1 ICP-Brasil (Portaria 671)'
+        caption: 'Segurança & Compliance - Inspeção Diária de Certificados SSL/TLS e do Certificado A1 ICP-Brasil (Portaria 671)'
       }
     ]
   },
   tisuportems: {
-    title: 'Site & Landing Page — TI Suporte MS',
+    title: 'Site & Landing Page - TI Suporte MS',
     category: 'Web • Alta Conversão',
     liveUrl: 'https://tisuportems.com.br',
     liveLabel: 'Acessar Site Oficial',
@@ -230,22 +230,22 @@ const projectGalleries = {
     ]
   },
   condo_access: {
-    title: 'Condo Access — Portaria & Hóspedes Temporada (Open-Source)',
+    title: 'Condo Access - Portaria & Hóspedes Temporada (Open-Source)',
     category: 'Open-Source • Em Construção',
     liveUrl: 'https://github.com/mickael-soares/condo-access-management',
     liveLabel: 'Ver Repositório no GitHub',
     slides: [
       {
         src: 'assets/project_condo_access.png',
-        caption: 'Painel Principal de Gestão & Cadastro — Visão Geral de Hóspedes Temporada, Unidades por Bloco, Moradores e Veículos'
+        caption: 'Painel Principal de Gestão & Cadastro - Visão Geral de Hóspedes Temporada, Unidades por Bloco, Moradores e Veículos'
       },
       {
         src: 'assets/project_condo_proprietario.png',
-        caption: 'Portal Autônomo do Proprietário — Autoatendimento com Validação Dupla (CPF + Telefone/APT) para Autorizar Hóspedes Airbnb e Veículos'
+        caption: 'Portal Autônomo do Proprietário - Autoatendimento com Validação Dupla (CPF + Telefone/APT) para Autorizar Hóspedes Airbnb e Veículos'
       },
       {
         src: 'assets/project_condo_login.png',
-        caption: 'Tela de Autenticação — Acesso de Portaria e Síndico com Atalho Direto ao Portal Autônomo do Proprietário'
+        caption: 'Tela de Autenticação - Acesso de Portaria e Síndico com Atalho Direto ao Portal Autônomo do Proprietário'
       }
     ]
   }
