@@ -237,7 +237,11 @@ const projectGalleries = {
     slides: [
       {
         src: 'assets/project_condo_access.png',
-        caption: 'Painel Principal de Gestão & Cadastro - Visão Geral de Hóspedes Temporada, Unidades por Bloco, Moradores e Veículos'
+        caption: 'Painel Principal (Visão Compacta) - Resumo por Bloco e Apartamento com Titular, Hóspede e Placas Mercosul na Garagem'
+      },
+      {
+        src: 'assets/project_condo_expandido.png',
+        caption: 'Painel Principal (Visão Expandida) - Detalhamento Completo de Moradores Fixos, Hóspedes de Temporada e Controle de Vagas'
       },
       {
         src: 'assets/project_condo_proprietario.png',
