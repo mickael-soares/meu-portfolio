@@ -87,12 +87,12 @@ Aberto a **novas oportunidades e contratações**.
 ---
 
 ### 5. Condo Access Management - Controle de Portaria & Temporada (Airbnb)
-> *Status: Open-Source (MIT) • Em Construção*
+> *Status: Ambiente Privado • Em Produção*
 
-* Sistema corporativo de código aberto para controle de acesso de moradores fixos e locações por temporada (*short-stay* / Airbnb / Booking) com *self check-in*.
+* Sistema corporativo em produção para controle de acesso de moradores fixos e locações por temporada (*short-stay* / Airbnb / Booking) com *self check-in*.
 * Armazenamento seguro de documentos sensíveis no **Cloudflare R2** via URLs pré-assinadas temporárias (15 min) em estrita conformidade com a **LGPD** e isolamento **Row-Level Security (RLS)** no Supabase.
 * **Stack:** Next.js 15, React 19, TypeScript, Supabase (PostgreSQL RLS), Cloudflare R2, Tailwind CSS v4.
-* 🔗 [Ver Repositório no GitHub](https://github.com/mickael-soares/condo-access-management)
+* 🔗 [Acessar Aplicação](https://condo.tisuportems.com.br)
 
 ---
 

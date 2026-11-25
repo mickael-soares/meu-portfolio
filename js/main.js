@@ -230,10 +230,10 @@ const projectGalleries = {
     ]
   },
   condo_access: {
-    title: 'Condo Access - Portaria & Hóspedes Temporada (Open-Source)',
-    category: 'Open-Source • Em Construção',
-    liveUrl: 'https://github.com/mickael-soares/condo-access-management',
-    liveLabel: 'Ver Repositório no GitHub',
+    title: 'Condo Access - Portaria & Hóspedes Temporada',
+    category: 'SaaS / Portaria & Short-Stay • Em Produção',
+    liveUrl: 'https://condo.tisuportems.com.br',
+    liveLabel: 'Acessar Aplicação',
     slides: [
       {
         src: 'assets/project_condo_access.png',
